@@ -1,7 +1,9 @@
 # Template Project for AtCoder
 
-## How to use.
+## Before using.
 
+## How to use.
+0. Install Rust via rustup: https://rustup.rs/ .
 1. clone and get into the cloned directory.
 ```bash
 $ git clone https://github.com/catupper/atcoder-rs.git
